@@ -21,9 +21,9 @@ def hello_world():
 
 
 if __name__ == '__main__':
-    # 删除所有的表
+    # delete all tables
     #db.drop_all()
-    # 创建表
+    # create table
     #db.create_all()
 
     #admin = User(username='admin', email='admin@example.com')
